@@ -3,11 +3,11 @@
 title: 김은수
 
 # Name pronunciation (optional)
-name_pronunciation: 김 은 수
+name_pronunciation: Kim-Eun-Su
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 은수
+last_name: 김
 
 # Status emoji
 status:
