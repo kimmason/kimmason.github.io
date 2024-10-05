@@ -71,11 +71,11 @@ skills:
       - name: 음악 감상
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: custom/headphones
       - name: 게임
         description: ''
         percent: 100
-        icon: cat
+        icon: custom/game
       - name: 볼링
         description: ''
         percent: 80
