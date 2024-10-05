@@ -71,7 +71,7 @@ skills:
       - name: 음악 감상
         description: ''
         percent: 60
-        icon: headphones
+        icon: custom/headphones
       - name: 게임
         description: ''
         percent: 100
