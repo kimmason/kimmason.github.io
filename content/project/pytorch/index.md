@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: OSS-24-01
+date: 2024-04-01
+external_link: https://github.com/kimmason/OSS-24-01
 tags:
-  - Hugo
+  - OSS
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+오픈소스를 활용하는 방법과 github 사용방법을 학습했던 프로젝트입니다.
 
 <!--more-->
