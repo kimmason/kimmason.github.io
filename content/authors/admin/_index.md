@@ -50,20 +50,20 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 기술 스택
     items:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: python.svg
+      - name: react
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: react.svg
+      - name: javascript
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: javascript.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
