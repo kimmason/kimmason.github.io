@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Hugo-home-page
+date: 2024-09-28
+external_link: https://github.com/kimmason/kimmason.github.io
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Hugo theme를 활용한 개인 홈페이지 제작 프로젝트 입니다.
 
 <!--more-->
