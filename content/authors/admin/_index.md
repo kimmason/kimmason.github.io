@@ -75,7 +75,7 @@ skills:
       - name: 게임
         description: ''
         percent: 100
-        icon: game
+        icon: custom/game
       - name: 볼링
         description: ''
         percent: 80
