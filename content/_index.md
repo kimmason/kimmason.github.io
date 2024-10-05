@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 Instroduction"
+      title: "📚 Introduction"
       subtitle: ''
       text: |-
         환영합니다. 이 곳은 저의 공부했던 자료와 프로젝트 등을 공유하는 포트폴리오 역할을 하는 개인 사이트이면서 한편으로 제가 관심있는 주제의
