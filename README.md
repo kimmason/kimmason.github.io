@@ -19,5 +19,5 @@
 
 1. GitHub에서 이 저장소를 클론합니다.
    ```bash
-   git clone https://github.com/사용자명/저장소명.git
-2. Huho Blox 공식 문서(https://docs.hugoblox.com/)를 참고하여 필요한 편집을 진행합니다.
+   git clone https://github.com/kimmason/kimmason.github.io.git
+2. [Hugo Blox 공식 문서](https://docs.hugoblox.com) 를 참고하여 필요한 편집을 진행합니다.
