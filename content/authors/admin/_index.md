@@ -55,15 +55,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python.svg
+        icon: python
       - name: react
         description: ''
         percent: 100
-        icon: react.svg
+        icon: react
       - name: javascript
         description: ''
         percent: 40
-        icon: javascript.svg
+        icon: javascript
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
