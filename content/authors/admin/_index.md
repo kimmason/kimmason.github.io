@@ -36,9 +36,9 @@ profiles:
     url: https://github.com/kimmason
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 웹 서비스 개발
+  - 데이터마이닝
+  - 정보 검색
 
 education:
   - area: PhD Artificial Intelligence
