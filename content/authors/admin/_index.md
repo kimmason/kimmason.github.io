@@ -79,7 +79,7 @@ skills:
       - name: 볼링
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/bowling
 
 languages:
   - name: Korean
