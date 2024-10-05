@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: orb
+date: 2024-06-24
+external_link: https://github.com/jbnu-orb/orb
 tags:
-  - Hugo
+  - Python
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+python flask로 Front-end, back-end를 구성하고 'Gradio' 라는 AI 모델을  사용한 특정 이미지의 객체 삭제 서비스입니다.
+AI 모델을 실행하여 로컬에서 사진을 변환하고, 변환된 사진을 업로드하는 블로그 기능이 구현되어 있습니다.
 
 <!--more-->
